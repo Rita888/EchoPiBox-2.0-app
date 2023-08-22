@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>210013143763-dc9753fuolkva75hq3dg43ke66q9bcvk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.210013143763-dc9753fuolkva75hq3dg43ke66q9bcvk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDmsWvFS6nw0fLscx3E3gXhmK1uE6DKxhs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>210013143763</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>eco.beewise.batsexplorer</string>
+	<key>PROJECT_ID</key>
+	<string>bats-explorer-de16a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bats-explorer-de16a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:210013143763:ios:379afde057a04ba10c0a26</string>
+	<key>DATABASE_URL</key>
+	<string>https://bats-explorer-de16a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

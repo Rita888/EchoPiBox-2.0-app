@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "210013143763",
+    "firebase_url": "https://bats-explorer-de16a-default-rtdb.firebaseio.com",
+    "project_id": "bats-explorer-de16a",
+    "storage_bucket": "bats-explorer-de16a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210013143763:android:5fb2c1308da61e7f0c0a26",
+        "android_client_info": {
+          "package_name": "eco.beewise.batsexplorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210013143763-6nk0ri8k1lg6qki6po4g3o9grvv488a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJvm64kolLwXYTHkZthx_bLORS72I9sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210013143763-6nk0ri8k1lg6qki6po4g3o9grvv488a7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210013143763-dc9753fuolkva75hq3dg43ke66q9bcvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "eco.beewise.batsexplorer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
